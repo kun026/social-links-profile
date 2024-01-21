@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/social-links-profile-with-css-flexbox-_8DkeQp7f7))
-- Live Site URL: [Click here]([https://your-live-site-url.com](https://kun026.github.io/social-links-profile/))
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/social-links-profile-with-css-flexbox-_8DkeQp7f7)
+- Live Site URL: [Click here](https://kun026.github.io/social-links-profile/)
 
 ## My process
 
